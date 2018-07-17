@@ -1,3 +1,15 @@
+Author: Pradeep Nishani
+
+This is my first React App development.
+The application will have a youtube video player with a search capability.
+
+To install and use this application
+  1. clone/download the source code
+  2. run npm install in command prompt(To download node modules)
+  3. run npm start to start server.
+  
+  Voilaa!!! The application is up & running.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
