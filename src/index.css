@@ -3,3 +3,33 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.searchBarControl {
+  padding: 20px;
+}
+
+.searchField {
+  border: none;
+  border-radius: 25px;
+}
+
+.searchBar {
+  border: 1px solid;
+  border-radius: 25px;
+  width: 642px;
+  padding-left: 10px;
+}
+
+.video-detail .details {
+  margin-top:  10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover{
+  background-color:#eee;
+} 
